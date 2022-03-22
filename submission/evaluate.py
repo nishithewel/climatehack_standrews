@@ -2,7 +2,7 @@ import numpy as np
 import torch
 
 from climatehack import BaseEvaluator
-from basemodel import Model
+from model import Model
 
 
 class Evaluator(BaseEvaluator):
